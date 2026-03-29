@@ -70,7 +70,7 @@ ott-content-analysis/
 - **TV Shows:** 67.3% of shows have only 1 season — Netflix heavily favours limited series over long-running shows
 - **Seasonal pattern:** July is the busiest month for new releases, February the quietest
 - **Top actor:** Anupam Kher appears in 43 titles — the most of any cast member on the platform
-- **Top director:** Rajiv Chilaka leads with 19 titles---
+- **Top director:** Rajiv Chilaka leads with 19 titles
 
 ## Charts
 
