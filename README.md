@@ -74,16 +74,13 @@ ott-content-analysis/
 
 ## Charts
 
-| Chart | Description |
-|-------|------------|
-| `plots/01_content_type.png` | Movies vs TV Shows split |
-| `plots/02_top_genres.png` | Top 12 genres by title count |
-| `plots/03_content_over_time.png` | Yearly content additions |
-| `plots/04_top_countries.png` | Top 10 content-producing countries |
-| `plots/05_movie_durations.png` | Distribution of movie runtimes |
-| `plots/06_ratings_heatmap.png` | Rating breakdown by content type |
-| `plots/07_monthly_additions.png` | Seasonal content release patterns |
-
+![Content Type](plots/01_content_type.png)
+![Top Genres](plots/02_top_genres.png)
+![Content Over Time](plots/03_content_over_time.png)
+![Top Countries](plots/04_top_countries.png)
+![Movie Durations](plots/05_movie_durations.png)
+![Ratings Heatmap](plots/06_ratings_heatmap.png)
+![Monthly Additions](plots/07_monthly_additions.png)
 
 
 ---
