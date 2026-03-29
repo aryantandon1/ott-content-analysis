@@ -11,7 +11,7 @@ This project analyzes **8,800+ Netflix titles** to uncover patterns in their con
 It is structured across three Jupyter notebooks:
 - `01_data_cleaning.ipynb` — Load, inspect, and clean the raw data
 - `02_eda.ipynb` — Explore and analyze the cleaned data
-- `03_visualizations.ipynb` — Generate and export publication-ready charts
+- `03_visualizations.ipynb` — Generate and save charts.
 
 ---
 
