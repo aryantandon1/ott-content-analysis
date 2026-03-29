@@ -45,12 +45,13 @@ It is structured across three Jupyter notebooks:
 ```
 ott-content-analysis/
 ├── data/
-│   ├── raw/               
-│   └── processed/         ├── notebooks/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
 │   └── 03_visualizations.ipynb
-├── plots/                 
+├── plots/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
