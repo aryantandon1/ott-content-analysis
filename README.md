@@ -99,4 +99,4 @@ Note: Raw data is not committed to this repository per Kaggle's terms of use.
 
 ## Author
 
-[Aryan Tandon]
+Aryan Tandon
